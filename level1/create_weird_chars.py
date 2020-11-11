@@ -10,8 +10,13 @@ def solution(s):
             if ind % 2: word[ind] = word[ind].lower()
         answer.append(''.join(word))
         
+<<<<<<< HEAD
     print(' '.join(answer))
     return ' '.join(answer)
 
 solution('dsd sdasda  sdasd')
 print('sd'.isalpha())
+=======
+    # print(answer)
+    return ' '.join(answer)
+>>>>>>> b047df88beb03f14db0f4469247c332b6c4ee792

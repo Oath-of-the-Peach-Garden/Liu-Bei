@@ -9,8 +9,13 @@ def solution(strings, n):
     for ind in range(len(strings)):
         strings[ind] = strings[ind][1:]
     
+<<<<<<< HEAD
     # sorted(strings, key=lambda x: x[n])
 
     return strings
 
 print(solution(['sdfsd','sdfs','wewq'],3))
+=======
+
+    return strings
+>>>>>>> b047df88beb03f14db0f4469247c332b6c4ee792
