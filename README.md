@@ -43,10 +43,10 @@
 - [ ] 체육복[]()
 - [ ] 모의고사[]()
 - [ ] 완주하지 못한 선수[]()
-- [x] 두 개 뽑아서 더하기[]()
-- [ ] 3진법 뒤집기[]()
-- [x] 내적[]()
-- [ ] K번째 수[]()
+- [x] 두 개 뽑아서 더하기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/pick_two_and_add.py)
+- [x] 3진법 뒤집기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/ternary_system.py)
+- [x] 내적[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/dot_product.py)
+- [x] K번째 수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/kth_number.py)
 
 ---
 
