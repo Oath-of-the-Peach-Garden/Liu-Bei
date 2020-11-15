@@ -42,7 +42,7 @@
 
 - [x] 체육복[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/training_clothes.py)
 - [x] 모의고사[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/pratice_test.py)
-- [ ] 완주하지 못한 선수[]()
+- [x] 완주하지 못한 선수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/a_player_who_could_not_finish.py)
 - [x] 두 개 뽑아서 더하기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/pick_and_add.py)
 - [x] 3진법 뒤집기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/ternary_system.py)
 - [x] 내적[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/2020-11-11/dot_product.py)
