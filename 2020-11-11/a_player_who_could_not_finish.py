@@ -57,6 +57,19 @@ def solution3(participant, completion):
 
     return answer
 
+def solution4(participant, completion):
+    answer = ''
+
+    participant.sort()
+    completion.sort()
+
+    while 1:
+        start = 0
+        end = len
+
+
+    return answer
+
 print(solution(['leo', 'kiki', 'eden'],['eden', 'kiki']))
 print(solution(['marina', 'josipa', 'nikola', 'vinko', 'filipa'],['josipa', 'filipa', 'marina', 'nikola']))
 print(solution(['mislav', 'stanko', 'mislav', 'ana'],['stanko', 'ana', 'mislav']))
