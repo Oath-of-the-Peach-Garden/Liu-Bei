@@ -4,8 +4,8 @@ def solution(n, lost, reserve):
 
     # 여벌옷이 있는데 도난당한 학생을 먼저 걸러주어야함
     # 먼저 걸러주지 않으면 반복문을 돌면서 앞의 학생을 처리할 때 필요없는데 빌림당할수도 있음
-    f_lost = [std for std in lost if not (std in reserve)] # list(set(lost)-set(reserve))
-    f_reserve = [std for std in reserve if not (std in lost)] # list(set(reserve)-set(lost))
+    f_lost = [std for std in lost if std not in reserve] # list(set(lost)-set(reserve))
+    f_reserve = [std for std in reserve if std not in lost] # list(set(reserve)-set(lost))
 
 
     for std in f_reserve:
