@@ -50,7 +50,7 @@
 
 ---
 
-- [ ] 크레인 인형뽑기 게임[]()
+- [x] 크레인 인형뽑기 게임[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1_kakao/crain_doll.py)
 - [ ] 키패드 누르기[]()
 - [ ] 예산[]()
 - [ ] [1차] 비밀지도[]()
