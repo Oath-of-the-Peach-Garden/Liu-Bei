@@ -16,8 +16,37 @@ def solution(n, lost, reserve):
             f_lost.remove(std+1)
         # print(lost)
 
+
     return n - len(f_lost)
 
 print(solution(5,[2, 4],[1, 3, 5]))
 print(solution(10,[1,2,9,10],[5,6,9]))
 print(solution(5,[3,4,5],[2,3,4]))
+
+def solution1(n, lost, reserve):
+    answer = 0
+    new_lost = lost[:]
+    new_reserve = reserve[:]
+
+    for r in reserve:
+        if r in lost:
+            new_lost.remove(r)
+            new_reserve.remove(r)
+    print(new_lost)
+    print(new_reserve)
+
+    f_lost = new_lost[:]
+    for l in f_lost:
+        if l-1 in new_reserve:
+            new_reserve.remove(l-1)
+            new_lost.remove(l)
+        elif l+1 in new_reserve:
+            new_reserve.remove(l+1)
+            new_lost.remove(l)
+    answer = n - len(new_lost)
+
+    return answer
+
+print('두번째',solution1(5,[2, 4],[1, 3, 5]))
+print(solution1(10,[1,2,9,10],[5,6,9]))
+print(solution1(5,[3,4,5],[2,3,4]))
