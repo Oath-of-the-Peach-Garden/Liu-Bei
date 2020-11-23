@@ -3,10 +3,16 @@
 def solution(board, moves):
     answer = 0
     basket = []
+
+    # 인형을 움직여서 basket에 담아줌
+    # 안에 들어있는 수는 인덱스+1
     for move in moves:
         for i in range(len(board)):
+
+            # board에 인형이 비어있지 않으면(0이 아니면) basket으로 인형을 옮김
             if board[i][move-1]:
                 basket.append(board[i][move-1])
+                # 인형이 옮겨진 자리는 비어있다는 의미로 0을 넣어줌
                 board[i][move-1]=0
                 break
 
