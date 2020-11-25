@@ -53,6 +53,9 @@
 - [x] 크레인 인형뽑기 게임[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-18/crain_doll.py)
 - [x] 키패드 누르기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-18/keypad.py)
 - [x] 예산[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-18/budget.py)
+
+---
+
 - [ ] [1차] 비밀지도[]()
-- [ ] 실패율[]()
+- [x] 실패율[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/failure_rate.py)
 - [ ] [1차] 다트게임[]()
