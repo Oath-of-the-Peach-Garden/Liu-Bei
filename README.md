@@ -56,6 +56,6 @@
 
 ---
 
-- [ ] [1차] 비밀지도[]()
+- [x] [1차] 비밀지도[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/secret_map.py)
 - [x] 실패율[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/failure_rate.py)
 - [ ] [1차] 다트게임[]()
