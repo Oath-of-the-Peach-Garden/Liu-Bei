@@ -7,6 +7,8 @@
 
 ## Level 1
 
+### practice[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/practice)
+
 - [x] 2016년[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/practice/2016.py)
 - [x] 가운데 글자 가져오기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/practice/get_the_middle_char.py)
 - [x] 같은 숫자는 싫어[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/practice/del_dupl_num.py)
@@ -38,7 +40,7 @@
 - [x] x만큼 간격이 있는 n개의 숫자[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/practice/interval_num.py)
 - [x] 직사각형 별찍기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/practice/rectangle.py)
 
----
+### 2020-11-11[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-11)
 
 - [x] 체육복[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-11/training_clothes.py)
 - [x] 모의고사[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-11/pratice_test.py)
@@ -48,13 +50,13 @@
 - [x] 내적[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-11/dot_product.py)
 - [x] K번째 수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-11/kth_number.py)
 
----
+### 2020-11-18[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-18)
 
 - [x] 크레인 인형뽑기 게임[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-18/crain_doll.py)
 - [x] 키패드 누르기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-18/keypad.py)
 - [x] 예산[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-18/budget.py)
 
----
+### 2020-11-25[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25)
 
 - [x] [1차] 비밀지도[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/secret_map.py)
 - [x] 실패율[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/failure_rate.py)
