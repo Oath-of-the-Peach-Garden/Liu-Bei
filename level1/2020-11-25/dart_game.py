@@ -1,4 +1,8 @@
-def solution(dartResult):
+
+# 다트게임
+
+# 1
+"""def solution(dartResult):
     answer = 0
     
     bonus = {
@@ -51,7 +55,7 @@ def solution(dartResult):
         
     print(temp)
     
-    return answer
+    return answer"""
 
 # print(solution('1S2D*3T'))
 # print(solution('1D2S#10S'))
@@ -61,7 +65,7 @@ def solution(dartResult):
 # print(solution('1T2D3D#'))
 # print(solution('1D2S3T*'))
 
-
+# 2
 def solution1(dartResult):
     answer = 0
     print(dartResult)
@@ -140,3 +144,6 @@ print(solution1('1S*2T*3S'))
 print(solution1('1D#2S*3S'))
 print(solution1('1T2D3D#'))
 print(solution1('1D2S3T*'))
+print('---------------------------------')
+# 3
+# 위 방법에서 for 문을 하나로 합하는 방법도 있을거같은데 일단 보류
