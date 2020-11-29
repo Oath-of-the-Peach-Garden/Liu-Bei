@@ -61,3 +61,20 @@
 - [x] [1차] 비밀지도[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/secret_map.py)
 - [x] 실패율[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/failure_rate.py)
 - [x] [1차] 다트게임[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level1/2020-11-25/dart_game.py)
+
+## level2
+
+### 2020-11-29[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29]
+
+- [ ] 124나라의 숫자[]()
+- [ ] 가장 큰 정사각형 찾기[]()
+- [ ] 올바른 괄호[]()
+- [ ] 다음 큰 숫자[]()
+- [ ] 땅따먹기[]()
+- [ ] 숫자의 표현[]()
+- [ ] 최대값과 최소값[]()
+- [ ] 최소값 만들기[]()
+- [ ] 피보나치수[]()
+- [ ] 행렬의 곱셈[]()
+- [ ] n개의 최소공배수[]()
+- [ ] JadenCase 문자열만들기[]()
