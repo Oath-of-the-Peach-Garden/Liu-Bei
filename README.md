@@ -66,7 +66,7 @@
 
 ### 2020-11-29[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29]
 
-- [ ] 124나라의 숫자[]()
+- [x] 124나라의 숫자[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/num_of_124.py)
 - [ ] 가장 큰 정사각형 찾기[]()
 - [ ] 올바른 괄호[]()
 - [ ] 다음 큰 숫자[]()
