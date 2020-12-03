@@ -77,4 +77,4 @@
 - [x] 피보나치수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/fibo.py)
 - [ ] 행렬의 곱셈[]()
 - [x] n개의 최소공배수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/n_lcm.py)
-- [ ] JadenCase 문자열만들기[]()
+- [x] JadenCase 문자열만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/get_JadenCase.py)
