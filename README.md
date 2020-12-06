@@ -71,7 +71,7 @@
 - [x] 올바른 괄호[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/right_bracket.py)
 - [x] 다음 큰 숫자[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/next_largest_number.py)
 - [ ] 땅따먹기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/)
-- [ ] 숫자의 표현[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/)
+- [x] 숫자의 표현[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/representation_of_numbers.py)
 - [x] 최댓값과 최솟값[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/max_and_min.py)
 - [x] 최솟값 만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/get_min.py)
 - [x] 피보나치수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/fibo.py)
