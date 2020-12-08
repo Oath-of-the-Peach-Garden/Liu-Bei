@@ -67,10 +67,8 @@
 ### 2020-11-29[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29)
 
 - [x] 124나라의 숫자[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/num_of_124.py)
-- [ ] 가장 큰 정사각형 찾기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/)
 - [x] 올바른 괄호[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/right_bracket.py)
 - [x] 다음 큰 숫자[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/next_largest_number.py)
-- [ ] 땅따먹기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/)
 - [x] 숫자의 표현[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/representation_of_numbers.py)
 - [x] 최댓값과 최솟값[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/max_and_min.py)
 - [x] 최솟값 만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/get_min.py)
@@ -78,3 +76,5 @@
 - [x] 행렬의 곱셈[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/multi_of_array.py)
 - [x] n개의 최소공배수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/n_lcm.py)
 - [x] JadenCase 문자열만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/get_JadenCase.py)
+- [ ] 가장 큰 정사각형 찾기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/)
+- [ ] 땅따먹기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/)
