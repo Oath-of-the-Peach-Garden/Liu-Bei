@@ -86,5 +86,5 @@
 - [x] 행렬의 곱셈[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/multi_of_array.py)
 - [x] n개의 최소공배수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/n_lcm.py)
 - [x] JadenCase 문자열만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/get_JadenCase.py)
-- [ ] 가장 큰 정사각형 찾기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/)
+- [x] 가장 큰 정사각형 찾기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/finding_largest_square.py)
 - [x] 땅따먹기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/hopscotch.py)
