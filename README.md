@@ -88,3 +88,10 @@
 - [x] JadenCase 문자열만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/get_JadenCase.py)
 - [x] 가장 큰 정사각형 찾기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/finding_largest_square.py)
 - [x] 땅따먹기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-11-29/hopscotch.py)
+
+### 2020-12-13[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13)
+
+- [x] 다리를 지나는 트럭[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/truck_passing_the_bridge.py)
+- [ ] 주식가격[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/.py)
+- [ ] 가장 큰 수[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/.py)
+- [ ] H-Index[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/.py)
