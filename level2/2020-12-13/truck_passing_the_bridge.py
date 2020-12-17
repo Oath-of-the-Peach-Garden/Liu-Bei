@@ -21,7 +21,39 @@ def solution(bridge_length, weight, truck_weights):
             bridge.append(0)
             # print(f'못 올라감')
 
+        print(bridge)
+
+        if len(bridge) == bridge_length:
+            if bridge[0]:
+                temp += 1
+            del bridge[0]
         # print(bridge)
+
+        time += 1
+
+    return time+1
+
+
+print(solution(2, 10, [7, 4, 5, 6]))
+# print(solution(100, 100, [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]))
+# print(solution(100, 100, [10]))
+
+
+# 위의 코드 개선
+# 크게 다를지는 모르겠지만 변수 하나를 줄여서 연산을 덜 하게 만들어봄
+def solution2(bridge_length, weight, truck_weights):
+    bridge = []
+
+    time = 0    # 경과 시간
+    pt = 0      # 건널 차 리스트의 포인터
+    temp = 0    # 모든 차가 다 지나가면 탈출
+    while len(truck_weights) > temp:
+        # 트럭 무게 리스트의 범위를 벗어나지 않기 위해
+        if pt < len(truck_weights) and sum(bridge) + truck_weights[pt] <= weight:
+            bridge.append(truck_weights[pt])
+            pt += 1
+        else:
+            bridge.append(0)
 
         if len(bridge) == bridge_length:
             if bridge[0]:
@@ -31,8 +63,3 @@ def solution(bridge_length, weight, truck_weights):
         time += 1
 
     return time+1
-
-
-print(solution(2, 10, [7, 4, 5, 6]))
-print(solution(100, 100, [10, 10, 10, 10, 10, 10, 10, 10, 10, 10]))
-print(solution(100, 100, [10]))
