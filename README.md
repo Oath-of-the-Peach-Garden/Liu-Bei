@@ -94,4 +94,4 @@
 - [x] 다리를 지나는 트럭[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/truck_passing_the_bridge.py)
 - [x] 주식가격[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/truck_passing_the_bridge.py)
 - [x] 가장 큰 수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/the_largest_number.py)
-- [ ] H-Index[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/.py)
+- [x] H-Index[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/H-index.py)
