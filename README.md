@@ -14,6 +14,8 @@
   - [2020-11-25(3/3)](#2020-11-25)
 - [level2](#level2)
   - [2020-11-29(12/12)](#2020-11-29)
+  - [2020-12-13(4/4)](#2020-12-13)
+  - [2020-12-20(1/6)](#2020-12-20)
 
 ## Level 1
 
@@ -95,3 +97,20 @@
 - [x] 주식가격[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/truck_passing_the_bridge.py)
 - [x] 가장 큰 수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/the_largest_number.py)
 - [x] H-Index[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-13/H-index.py)
+
+### 2020-12-20[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20)
+
+#### 그리디
+
+- [ ] 조이스틱[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
+- [ ] 큰 수 만들기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
+- [ ] 구명보트[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
+
+#### 완전탐색
+
+- [ ] 소수찾기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
+- [x] 카펫[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/carpet.py)
+
+#### 해시
+
+- [ ] 전화번호 목록[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
