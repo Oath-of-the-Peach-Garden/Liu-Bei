@@ -108,7 +108,7 @@
 
 #### 완전탐색
 
-- [ ] 소수찾기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
+- [x] 소수찾기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/finding_prime.py)
 - [x] 카펫[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/carpet.py)
 
 #### 해시
