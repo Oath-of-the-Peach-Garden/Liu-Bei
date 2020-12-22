@@ -6,9 +6,6 @@ def solution(brown, yellow):
 
     area = brown + yellow
 
-    for height in range(3, area//3+1):
-        width = area
-
     height = 3
     while 1:
 
