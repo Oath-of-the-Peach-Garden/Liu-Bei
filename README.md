@@ -113,4 +113,4 @@
 
 #### 해시
 
-- [ ] 전화번호 목록[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
+- [x] 전화번호 목록[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/phone_book.py)
