@@ -103,7 +103,7 @@
 #### 그리디
 
 - [ ] 조이스틱[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
-- [ ] 큰 수 만들기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
+- [x] 큰 수 만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/making_large_num.py)
 - [ ] 구명보트[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/.py)
 
 #### 완전탐색
