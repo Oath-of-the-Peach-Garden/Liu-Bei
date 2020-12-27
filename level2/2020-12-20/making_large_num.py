@@ -161,3 +161,45 @@ def solution4(number, k):
             break
 
     return result
+
+
+def solution5(number, k):
+    answer = ""
+    result_len = len(number) - k
+
+    point = 0
+    for i in range(result_len):
+        max_num = "0"
+        # for j in range(point+1, i+k+1):
+        #     if max_num < number[j]:
+        #         point = j
+        #         max_num = number[j]
+        temp_number = number[point:i+k+1]
+        max_num = max(temp_number)
+        point += temp_number.find(max_num) + 1
+        # print(temp_number, max_num, point)
+        answer += max_num
+
+    return answer
+
+
+def solution6(number, k):
+    stack = []
+    del_cnt = 0
+
+    for i in range(len(number)):
+        ind = len(stack) - 1
+
+        while ind >= 0 and stack[ind] < int(number[i]) and del_cnt < k:
+            del_cnt += 1
+            stack.pop()
+            ind = len(stack) - 1
+
+        stack.append(int(number[i]))
+
+    print(stack)
+    if del_cnt < k:
+        stack.pop()
+    print(stack)
+
+    return "".join(list(map(str, stack)))
