@@ -27,7 +27,7 @@ def solution(people, limit):
 
 
 # 2
-def solution(people, limit):
+def solution2(people, limit):
     answer = 0
     people.sort()
     sp = 0
