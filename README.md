@@ -15,7 +15,8 @@
 - [level2](#level2)
   - [2020-11-29(12/12)](#2020-11-29)
   - [2020-12-13(4/4)](#2020-12-13)
-  - [2020-12-20(3/6)](#2020-12-20)
+  - [2020-12-20(6/6)](#2020-12-20)
+  - [2020-12-27(3/4)](#2020-12-27)
 
 ## Level 1
 
@@ -114,3 +115,18 @@
 #### 해시
 
 - [x] 전화번호 목록[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-20/phone_book.py)
+
+### 2020-12-27[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-27)
+
+#### 해시
+
+- [x] 위장[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-27/combi.py)
+
+#### 스택/큐
+
+- [x] 프린터[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-27/printer.py)
+- [x] 기능개발[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-27/function_development.py)
+
+#### 힙
+
+- [ ] 더 맵게[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-27/more_spicy.py)
