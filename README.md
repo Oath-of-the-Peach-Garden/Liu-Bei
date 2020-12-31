@@ -129,4 +129,4 @@
 
 #### 힙
 
-- [ ] 더 맵게[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-27/more_spicy.py)
+- [x] 더 맵게[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2020-12-27/more_spicy.py)
