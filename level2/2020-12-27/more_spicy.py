@@ -7,11 +7,12 @@ import heapq
 def solution(scoville, K):
     answer = 0
 
+    # scoville 리스트를 heap으로 만들어줌
     heapq.heapify(scoville)
     while 1:
         # 섞을 음식이 부족한 경우, 음식의 스코빌지수가 조건을 만족했는지 확인하고 결과를 반환
         if len(scoville) < 2:
-            if scoville[0] < K:
+            if scoville[0] < K:     # 남은 음식 하나가 목표에 도달하지 못했으면 -1 반환
                 answer = -1
             break
 
