@@ -135,5 +135,5 @@
 
 - [x] 삼각달팽이[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/triangle_snail.py)
 - [x] 이진변환 반복하기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/binary.py)
-- [x] 타겟넘버[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/.py)
-- [x] 쿼드압축 후 개수 세기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/.py)
+- [x] 타겟넘버[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/target_number.py)
+- [x] 쿼드압축 후 개수 세기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/quard.py)
