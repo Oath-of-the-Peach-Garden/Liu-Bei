@@ -4,17 +4,13 @@ def solution(n):
     answer = []
 
     temp = [[0]*cnt for cnt in range(1, n+1)]
-    max_num = 0
-    for t in temp:
-        max_num += len(t)
 
     count = []
     cnt = 0
     for i, number in enumerate(range(n, 0, -1)):
         cnt += number
-
         count.append(number)
-    # print(count)
+
     move = {
         'down': [1, 0],
         'right': [0, 1],
@@ -33,10 +29,8 @@ def solution(n):
                 dire = 'up'
             x += move[dire][0]
             y += move[dire][1]
-            # print(x, y)
             temp[x][y] = number
             number += 1
-        # print('----------------------')
     for t in temp:
         answer += t
     return answer
