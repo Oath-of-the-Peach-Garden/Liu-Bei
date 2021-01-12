@@ -16,7 +16,9 @@
   - [2020-11-29(12/12)](#2020-11-29)
   - [2020-12-13(4/4)](#2020-12-13)
   - [2020-12-20(6/6)](#2020-12-20)
-  - [2020-12-27(3/4)](#2020-12-27)
+  - [2020-12-27(4/4)](#2020-12-27)
+  - [2021-01-03](#2021-01-03)
+  - [2021-01-10](#2021-01-10)
 
 ## Level 1
 
@@ -137,3 +139,11 @@
 - [x] 이진변환 반복하기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/binary.py)
 - [x] 타겟넘버[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/target_number.py)
 - [x] 쿼드압축 후 개수 세기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-03/quard.py)
+
+### 2021-01-10[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10)
+
+- [x] 영어 끝말잇기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/link.py)
+- [ ] 소수 만들기[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/.py)
+- [ ] 멀쩡한 사각형[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/.py)
+- [x] 스킬트리[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/skill_tree.py)
+- [ ] 점프와 순간이동[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/.py)
