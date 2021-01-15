@@ -144,6 +144,6 @@
 
 - [x] 영어 끝말잇기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/link.py)
 - [x] 소수 만들기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/making_prime.py)
-- [ ] 멀쩡한 사각형[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/.py)
+- [x] 멀쩡한 사각형[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/triangle.py)
 - [x] 스킬트리[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/skill_tree.py)
 - [x] 점프와 순간이동[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/jump.py)
