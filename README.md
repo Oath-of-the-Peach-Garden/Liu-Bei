@@ -19,6 +19,7 @@
   - [2020-12-27(4/4)](#2020-12-27)
   - [2021-01-03](#2021-01-03)
   - [2021-01-10](#2021-01-10)
+  - [2021-01-17](#2021-01-17)
 
 ## Level 1
 
@@ -147,3 +148,9 @@
 - [x] 멀쩡한 사각형[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/square.py)
 - [x] 스킬트리[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/skill_tree.py)
 - [x] 점프와 순간이동[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/jump.py)
+
+### 2021-01-17[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-17)
+
+- [x] 폰켓몬[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/phoneketmon.py)
+- [x] 예상대진표[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/draw.py)
+- [x] 짝지어 제거하기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/matching_and_remove.py)
