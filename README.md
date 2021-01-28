@@ -20,6 +20,7 @@
   - [2021-01-03](#2021-01-03)
   - [2021-01-10](#2021-01-10)
   - [2021-01-17](#2021-01-17)
+  - [2021-01-24](#2021-01-24)
 
 ## Level 1
 
@@ -151,6 +152,12 @@
 
 ### 2021-01-17[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-17)
 
-- [x] 폰켓몬[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/phoneketmon.py)
-- [x] 예상대진표[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/draw.py)
-- [x] 짝지어 제거하기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-10/matching_and_remove.py)
+- [x] 폰켓몬[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-17/phoneketmon.py)
+- [x] 예상대진표[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-17/draw.py)
+- [x] 짝지어 제거하기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-17/matching_and_remove.py)
+
+### 2021-01-24[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24)
+
+- [x] 튜플[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/tuple.py)
+- [x] 수식 최대화[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/matching_and_remove.py)
+- [x] 2\*N 타일링[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/.py)
