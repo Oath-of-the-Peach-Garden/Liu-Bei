@@ -160,4 +160,4 @@
 
 - [x] 튜플[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/tuple.py)
 - [x] 수식 최대화[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/matching_and_remove.py)
-- [x] 2\*N 타일링[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/.py)
+- [x] 2xN 타일링[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-24/.py)
