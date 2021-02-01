@@ -21,6 +21,8 @@
   - [2021-01-10](#2021-01-10)
   - [2021-01-17](#2021-01-17)
   - [2021-01-24](#2021-01-24)
+- [level3](#level3)
+  - [2021-01-31](#2021-01-31)
 
 ## Level 1
 
@@ -160,4 +162,6 @@
 
 - [x] 튜플[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/tuple.py)
 - [x] 수식 최대화[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level2/2021-01-24/matching_and_remove.py)
-- [x] 2xN 타일링[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-24/.py)
+- [x] 2xN 타일링[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-24/2xN.py)
+
+### 2021-01-31[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-31)
