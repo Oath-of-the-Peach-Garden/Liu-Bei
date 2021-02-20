@@ -177,4 +177,4 @@
 - [x] 거스름돈[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/.py)
 - [x] 최고의 집합[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/best_combi.py)
 - [x] 야근지수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/work_rate.py)
-- [ ] 줄서는 방법[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/.py)
+- [x] 줄서는 방법[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/row.py)
