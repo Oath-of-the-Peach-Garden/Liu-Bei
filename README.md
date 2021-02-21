@@ -169,12 +169,12 @@
 
 - [x] 멀리뛰기[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-31/jump.py)
 - [x] 가장 긴 팰린드롬[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-31/pelinbla.py)
-- [ ] 거스름돈[](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-31/.py)
+- [x] 거스름돈[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-31/charge.py)
 - [x] 정수삼각형[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-01-31/triangle.py)
 
 ### 2021-02-14[🗂](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14)
 
-- [x] 거스름돈[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/.py)
+- [x] 거스름돈[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/charge.py)
 - [x] 최고의 집합[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/best_combi.py)
 - [x] 야근지수[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/work_rate.py)
 - [x] 줄서는 방법[📌](https://github.com/Oath-of-the-Peach-Garden/Liu-Bei/blob/main/level3/2021-02-14/row.py)
