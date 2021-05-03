@@ -13,13 +13,10 @@ def solution(A, B):
     a = A.pop()
     b = B.pop()
     while A:
-        # print(a, b)
-        # print(A, B)
         if a < b:
             answer += 1
             b = B.pop()
         a = A.pop()
-        # print("==========")
     else:
         if a < b:
             answer += 1
