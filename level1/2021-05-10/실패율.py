@@ -19,8 +19,11 @@ def solution(N, stages):
 
     failures.sort()
     print(failures)
-    for fail in failures:
-        answer.append(fail[1])
+    # for fail in failures:
+    #     answer.append(fail[1])
+
+    answer = [fail[1] for fail in failures]
+
     return answer
 
 
