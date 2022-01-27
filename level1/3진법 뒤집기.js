@@ -2,8 +2,10 @@ function solution(n) {
   let answer = 0;
   // 10진법 n -> 3진법 n
   answer = toTernary(n);
+  // answer = n.toString(3)
+  // console.log(answer)
   // 3진법 n -> reverse
-  answer = String(answer).split('').reverse().join('');
+  // answer = String(answer).split('').reverse().join('');
   // reversed 3진법 n -> 10진법
   answer = ternayToDecimal(answer);
 
@@ -12,22 +14,21 @@ function solution(n) {
 
 function toTernary(num) {
   let rest = num;
-  let result = '';
+  let result = [];
 
-  while (rest > 0) {
-    console.log(rest % 3, parseInt(rest / 3));
-    result = String(rest % 3) + result;
+  while (rest !== 0) {
+    result.unshift(String(rest % 3));
     rest = parseInt(rest / 3);
   }
 
-  return Number(result);
+  return result;
 }
 
-function ternayToDecimal(num) {
-  const numArray = num.split('').reverse();
-  const result = numArray.reduce((sum, number, idx) => {
-    return sum + Number(number) * 3 ** idx;
-  }, 0);
+function ternayToDecimal(numArray) {
+  const result = numArray.reduce(
+    (sum, number, idx) => sum + Number(number) * Math.pow(3, idx),
+    0
+  );
 
   return result;
 }
